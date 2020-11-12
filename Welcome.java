@@ -9,6 +9,7 @@ class Welcome {
 			System.out.println("burger")
 		}else{
 			System.out.println("juice")
+			System.out.println("cock")
 		}
 		
     }
